@@ -35,8 +35,18 @@ As the name says, the `develop` branch is for developing where we'll add new fea
 
 # Donations
 
-If you really like this bot and would like to donate, you can send Bitcoin donations to **1PoGoboTzD9jS43qrQYogMFW6nmNfK1BGi**
+If you really like this bot and would like to donate, you can send USDT donations to 
 
-If you rather use PayPal, please click here:
 
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B2ZM2WREK7B32)
+If you rather use PayPal, please pay to
+xiasiliang.ufl@gmail.com
+
+We will use the fund to develop game product on top of ETH, we are in hard time in development 
+
+As we know gamefi have a great revenue e.g. cryptokitty https://www.cryptokitties.co and https://axieinfinity.com
+ETH foundation collect fund of 10M so that they are building a better internt where people make a contribution can get a value share of their effort !!!
+
+we are looking for your support !!!
+
+
+
